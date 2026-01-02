@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.0.11205.157 d18.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rasterizer", "app\rasterizer.vcxproj", "{8D54D644-ADDD-4533-8B51-25CE493145DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D54D644-ADDD-4533-8B51-25CE493145DF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8D54D644-ADDD-4533-8B51-25CE493145DF}.Debug|Win32.Build.0 = Debug|Win32
+		{8D54D644-ADDD-4533-8B51-25CE493145DF}.Debug|x64.ActiveCfg = Debug|x64
+		{8D54D644-ADDD-4533-8B51-25CE493145DF}.Debug|x64.Build.0 = Debug|x64
+		{8D54D644-ADDD-4533-8B51-25CE493145DF}.Release|Win32.ActiveCfg = Release|Win32
+		{8D54D644-ADDD-4533-8B51-25CE493145DF}.Release|Win32.Build.0 = Release|Win32
+		{8D54D644-ADDD-4533-8B51-25CE493145DF}.Release|x64.ActiveCfg = Release|x64
+		{8D54D644-ADDD-4533-8B51-25CE493145DF}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

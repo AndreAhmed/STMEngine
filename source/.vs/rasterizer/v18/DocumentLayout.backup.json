@@ -1,0 +1,390 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D54D644-ADDD-4533-8B51-25CE493145DF}|app\\rasterizer.vcxproj|C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D54D644-ADDD-4533-8B51-25CE493145DF}|app\\rasterizer.vcxproj|solutionrelative:app\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D54D644-ADDD-4533-8B51-25CE493145DF}|app\\rasterizer.vcxproj|C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\loader_md2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D54D644-ADDD-4533-8B51-25CE493145DF}|app\\rasterizer.vcxproj|solutionrelative:app\\rendering\\loader_md2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D54D644-ADDD-4533-8B51-25CE493145DF}|app\\rasterizer.vcxproj|C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\mesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D54D644-ADDD-4533-8B51-25CE493145DF}|app\\rasterizer.vcxproj|solutionrelative:app\\rendering\\mesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D54D644-ADDD-4533-8B51-25CE493145DF}|app\\rasterizer.vcxproj|C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D54D644-ADDD-4533-8B51-25CE493145DF}|app\\rasterizer.vcxproj|solutionrelative:app\\rendering\\entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D54D644-ADDD-4533-8B51-25CE493145DF}|app\\rasterizer.vcxproj|C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\rasterizer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D54D644-ADDD-4533-8B51-25CE493145DF}|app\\rasterizer.vcxproj|solutionrelative:app\\rendering\\rasterizer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D54D644-ADDD-4533-8B51-25CE493145DF}|app\\rasterizer.vcxproj|C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D54D644-ADDD-4533-8B51-25CE493145DF}|app\\rasterizer.vcxproj|solutionrelative:app\\rendering\\texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D54D644-ADDD-4533-8B51-25CE493145DF}|app\\rasterizer.vcxproj|C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\loader_bmp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D54D644-ADDD-4533-8B51-25CE493145DF}|app\\rasterizer.vcxproj|solutionrelative:app\\rendering\\loader_bmp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D54D644-ADDD-4533-8B51-25CE493145DF}|app\\rasterizer.vcxproj|C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\texture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D54D644-ADDD-4533-8B51-25CE493145DF}|app\\rasterizer.vcxproj|solutionrelative:app\\rendering\\texture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D54D644-ADDD-4533-8B51-25CE493145DF}|app\\rasterizer.vcxproj|C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\rasterizer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D54D644-ADDD-4533-8B51-25CE493145DF}|app\\rasterizer.vcxproj|solutionrelative:app\\rendering\\rasterizer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D54D644-ADDD-4533-8B51-25CE493145DF}|app\\rasterizer.vcxproj|C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\mesh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D54D644-ADDD-4533-8B51-25CE493145DF}|app\\rasterizer.vcxproj|solutionrelative:app\\rendering\\mesh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D54D644-ADDD-4533-8B51-25CE493145DF}|app\\rasterizer.vcxproj|C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\engine_config.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D54D644-ADDD-4533-8B51-25CE493145DF}|app\\rasterizer.vcxproj|solutionrelative:app\\rendering\\engine_config.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D54D644-ADDD-4533-8B51-25CE493145DF}|app\\rasterizer.vcxproj|C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\device.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D54D644-ADDD-4533-8B51-25CE493145DF}|app\\rasterizer.vcxproj|solutionrelative:app\\rendering\\device.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D54D644-ADDD-4533-8B51-25CE493145DF}|app\\rasterizer.vcxproj|C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\device.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D54D644-ADDD-4533-8B51-25CE493145DF}|app\\rasterizer.vcxproj|solutionrelative:app\\rendering\\device.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D54D644-ADDD-4533-8B51-25CE493145DF}|app\\rasterizer.vcxproj|C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\resource.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D54D644-ADDD-4533-8B51-25CE493145DF}|app\\rasterizer.vcxproj|solutionrelative:app\\rendering\\resource.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D54D644-ADDD-4533-8B51-25CE493145DF}|app\\rasterizer.vcxproj|C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\platform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D54D644-ADDD-4533-8B51-25CE493145DF}|app\\rasterizer.vcxproj|solutionrelative:app\\platform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D54D644-ADDD-4533-8B51-25CE493145DF}|app\\rasterizer.vcxproj|C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\APP\\RENDERING\\COLOR.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D54D644-ADDD-4533-8B51-25CE493145DF}|app\\rasterizer.vcxproj|solutionrelative:APP\\RENDERING\\COLOR.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D54D644-ADDD-4533-8B51-25CE493145DF}|app\\rasterizer.vcxproj|C:\\USERS\\XGAME\\DESKTOP\\RASTERIZER-MASTER\\SOURCE\\APP\\RENDERING\\MATH3D.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D54D644-ADDD-4533-8B51-25CE493145DF}|app\\rasterizer.vcxproj|solutionrelative:APP\\RENDERING\\MATH3D.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D54D644-ADDD-4533-8B51-25CE493145DF}|app\\rasterizer.vcxproj|C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\color.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D54D644-ADDD-4533-8B51-25CE493145DF}|app\\rasterizer.vcxproj|solutionrelative:app\\rendering\\color.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D54D644-ADDD-4533-8B51-25CE493145DF}|app\\rasterizer.vcxproj|C:\\USERS\\XGAME\\DESKTOP\\RASTERIZER-MASTER\\SOURCE\\APP\\RENDERING\\PLATFORM.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D54D644-ADDD-4533-8B51-25CE493145DF}|app\\rasterizer.vcxproj|solutionrelative:APP\\RENDERING\\PLATFORM.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D54D644-ADDD-4533-8B51-25CE493145DF}|app\\rasterizer.vcxproj|C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\loader_obj.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D54D644-ADDD-4533-8B51-25CE493145DF}|app\\rasterizer.vcxproj|solutionrelative:app\\rendering\\loader_obj.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D54D644-ADDD-4533-8B51-25CE493145DF}|app\\rasterizer.vcxproj|C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D54D644-ADDD-4533-8B51-25CE493145DF}|app\\rasterizer.vcxproj|solutionrelative:app\\rendering\\resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\E\\Works\\BookCode\\TRICKS II\\T3DIICHAP15\\demoII15_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "loader_bmp.cpp",
+              "DocumentMoniker": "C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\loader_bmp.cpp",
+              "RelativeDocumentMoniker": "app\\rendering\\loader_bmp.cpp",
+              "ToolTip": "C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\loader_bmp.cpp",
+              "RelativeToolTip": "app\\rendering\\loader_bmp.cpp",
+              "ViewState": "AgIAAIMAAAAAAAAAAIAwwKAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-01T18:57:36.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "texture.cpp",
+              "DocumentMoniker": "C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\texture.cpp",
+              "RelativeDocumentMoniker": "app\\rendering\\texture.cpp",
+              "ToolTip": "C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\texture.cpp",
+              "RelativeToolTip": "app\\rendering\\texture.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-01T18:57:55.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "entity.cpp",
+              "DocumentMoniker": "C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\entity.cpp",
+              "RelativeDocumentMoniker": "app\\rendering\\entity.cpp",
+              "ToolTip": "C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\entity.cpp",
+              "RelativeToolTip": "app\\rendering\\entity.cpp",
+              "ViewState": "AgIAAM8AAAAAAAAAAAArwOAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-31T13:29:53.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\main.cpp",
+              "RelativeDocumentMoniker": "app\\main.cpp",
+              "ToolTip": "C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\main.cpp",
+              "RelativeToolTip": "app\\main.cpp",
+              "ViewState": "AgIAAI0BAAAAAAAAAAArwJ4BAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-31T12:06:35.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "mesh.h",
+              "DocumentMoniker": "C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\mesh.h",
+              "RelativeDocumentMoniker": "app\\rendering\\mesh.h",
+              "ToolTip": "C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\mesh.h",
+              "RelativeToolTip": "app\\rendering\\mesh.h",
+              "ViewState": "AgIAACsAAAAAAAAAAAArwDoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-01T19:10:57.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "engine_config.h",
+              "DocumentMoniker": "C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\engine_config.h",
+              "RelativeDocumentMoniker": "app\\rendering\\engine_config.h",
+              "ToolTip": "C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\engine_config.h",
+              "RelativeToolTip": "app\\rendering\\engine_config.h",
+              "ViewState": "AgIAAC0AAAAAAAAAAAArwD4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-31T12:38:28.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "loader_md2.cpp",
+              "DocumentMoniker": "C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\loader_md2.cpp",
+              "RelativeDocumentMoniker": "app\\rendering\\loader_md2.cpp",
+              "ToolTip": "C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\loader_md2.cpp",
+              "RelativeToolTip": "app\\rendering\\loader_md2.cpp",
+              "ViewState": "AgIAAAYBAAAAAAAAAAArwBQBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-01T19:00:57.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "device.cpp",
+              "DocumentMoniker": "C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\device.cpp",
+              "RelativeDocumentMoniker": "app\\rendering\\device.cpp",
+              "ToolTip": "C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\device.cpp",
+              "RelativeToolTip": "app\\rendering\\device.cpp",
+              "ViewState": "AgIAACMAAAAAAAAAAAAkwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-31T12:07:46.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "texture.h",
+              "DocumentMoniker": "C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\texture.h",
+              "RelativeDocumentMoniker": "app\\rendering\\texture.h",
+              "ToolTip": "C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\texture.h",
+              "RelativeToolTip": "app\\rendering\\texture.h",
+              "ViewState": "AgIAAAQAAAAAAAAAAAArwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-01T18:57:49.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mesh.cpp",
+              "DocumentMoniker": "C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\mesh.cpp",
+              "RelativeDocumentMoniker": "app\\rendering\\mesh.cpp",
+              "ToolTip": "C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\mesh.cpp",
+              "RelativeToolTip": "app\\rendering\\mesh.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAArwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-01T19:00:10.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "rasterizer.cpp",
+              "DocumentMoniker": "C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\rasterizer.cpp",
+              "RelativeDocumentMoniker": "app\\rendering\\rasterizer.cpp",
+              "ToolTip": "C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\rasterizer.cpp",
+              "RelativeToolTip": "app\\rendering\\rasterizer.cpp",
+              "ViewState": "AgIAABkBAAAAAAAAAAAkwDoBAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-31T12:37:41.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "rasterizer.h",
+              "DocumentMoniker": "C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\rasterizer.h",
+              "RelativeDocumentMoniker": "app\\rendering\\rasterizer.h",
+              "ToolTip": "C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\rasterizer.h",
+              "RelativeToolTip": "app\\rendering\\rasterizer.h",
+              "ViewState": "AgIAAAUAAAAAAAAAAAArwBYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-31T12:35:12.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "device.h",
+              "DocumentMoniker": "C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\device.h",
+              "RelativeDocumentMoniker": "app\\rendering\\device.h",
+              "ToolTip": "C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\device.h",
+              "RelativeToolTip": "app\\rendering\\device.h",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwCEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-30T12:30:41.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "platform.h",
+              "DocumentMoniker": "C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\platform.h",
+              "RelativeDocumentMoniker": "app\\platform.h",
+              "ToolTip": "C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\platform.h",
+              "RelativeToolTip": "app\\platform.h",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAkwHkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-01T19:06:51.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "resource.cpp",
+              "DocumentMoniker": "C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\resource.cpp",
+              "RelativeDocumentMoniker": "app\\rendering\\resource.cpp",
+              "ToolTip": "C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\resource.cpp",
+              "RelativeToolTip": "app\\rendering\\resource.cpp",
+              "ViewState": "AgIAAJICAAAAAAAAAAAkwKMCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-01T18:58:47.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "color.h",
+              "DocumentMoniker": "C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\color.h",
+              "RelativeDocumentMoniker": "app\\rendering\\color.h",
+              "ToolTip": "C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\color.h",
+              "RelativeToolTip": "app\\rendering\\color.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-31T12:51:18.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "color.cpp",
+              "DocumentMoniker": "C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\color.cpp",
+              "RelativeDocumentMoniker": "app\\rendering\\color.cpp",
+              "ToolTip": "C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\color.cpp",
+              "RelativeToolTip": "app\\rendering\\color.cpp",
+              "ViewState": "AgIAACkAAAAAAAAAAAAkwEoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-31T13:00:38.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "math3d.h",
+              "DocumentMoniker": "C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\math3d.h",
+              "RelativeDocumentMoniker": "app\\rendering\\math3d.h",
+              "ToolTip": "C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\math3d.h",
+              "RelativeToolTip": "app\\rendering\\math3d.h",
+              "ViewState": "AgIAAIcAAAAAAAAAAAArwJgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-01T19:42:58.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "loader_obj.cpp",
+              "DocumentMoniker": "C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\loader_obj.cpp",
+              "RelativeDocumentMoniker": "app\\rendering\\loader_obj.cpp",
+              "ToolTip": "C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\loader_obj.cpp",
+              "RelativeToolTip": "app\\rendering\\loader_obj.cpp",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAkwHAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-01T19:01:05.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "platform.h",
+              "DocumentMoniker": "C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\platform.h",
+              "RelativeDocumentMoniker": "app\\rendering\\platform.h",
+              "ToolTip": "C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\platform.h",
+              "RelativeToolTip": "app\\rendering\\platform.h",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAHwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-01T19:22:28.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "resource.h",
+              "DocumentMoniker": "C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\resource.h",
+              "RelativeDocumentMoniker": "app\\rendering\\resource.h",
+              "ToolTip": "C:\\Users\\xgame\\Desktop\\rasterizer-master\\source\\app\\rendering\\resource.h",
+              "RelativeToolTip": "app\\rendering\\resource.h",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-01T19:14:12.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "demoII15_1.cpp",
+              "DocumentMoniker": "E:\\E\\Works\\BookCode\\TRICKS II\\T3DIICHAP15\\demoII15_1.cpp",
+              "ToolTip": "E:\\E\\Works\\BookCode\\TRICKS II\\T3DIICHAP15\\demoII15_1.cpp",
+              "ViewState": "AgIAACwFAAAAAAAAAAAAAD0FAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-30T20:11:46.577Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

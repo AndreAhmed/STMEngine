@@ -1,0 +1,11 @@
+C:\Users\xgame\Desktop\rasterizer-master\source\app\main.cpp;C:\Users\xgame\Desktop\rasterizer-master\source\app\x64\Debug\main.obj
+C:\Users\xgame\Desktop\rasterizer-master\source\app\rendering\color.cpp;C:\Users\xgame\Desktop\rasterizer-master\source\app\x64\Debug\color.obj
+C:\Users\xgame\Desktop\rasterizer-master\source\app\rendering\device.cpp;C:\Users\xgame\Desktop\rasterizer-master\source\app\x64\Debug\device.obj
+C:\Users\xgame\Desktop\rasterizer-master\source\app\rendering\entity.cpp;C:\Users\xgame\Desktop\rasterizer-master\source\app\x64\Debug\entity.obj
+C:\Users\xgame\Desktop\rasterizer-master\source\app\rendering\loader_bmp.cpp;C:\Users\xgame\Desktop\rasterizer-master\source\app\x64\Debug\loader_bmp.obj
+C:\Users\xgame\Desktop\rasterizer-master\source\app\rendering\loader_md2.cpp;C:\Users\xgame\Desktop\rasterizer-master\source\app\x64\Debug\loader_md2.obj
+C:\Users\xgame\Desktop\rasterizer-master\source\app\rendering\loader_obj.cpp;C:\Users\xgame\Desktop\rasterizer-master\source\app\x64\Debug\loader_obj.obj
+C:\Users\xgame\Desktop\rasterizer-master\source\app\rendering\mesh.cpp;C:\Users\xgame\Desktop\rasterizer-master\source\app\x64\Debug\mesh.obj
+C:\Users\xgame\Desktop\rasterizer-master\source\app\rendering\rasterizer.cpp;C:\Users\xgame\Desktop\rasterizer-master\source\app\x64\Debug\rasterizer.obj
+C:\Users\xgame\Desktop\rasterizer-master\source\app\rendering\resource.cpp;C:\Users\xgame\Desktop\rasterizer-master\source\app\x64\Debug\resource.obj
+C:\Users\xgame\Desktop\rasterizer-master\source\app\rendering\texture.cpp;C:\Users\xgame\Desktop\rasterizer-master\source\app\x64\Debug\texture.obj
