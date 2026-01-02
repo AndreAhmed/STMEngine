@@ -23,10 +23,6 @@
 #define COMPILER_CLANG 1
 #endif
 
- /* ============================================================
-  * Platform Detection (engine_config.h may already define these)
-  * ============================================================ */
-
 #ifndef SDL_PC
 #if defined(_WIN32) || defined(_WIN64)
 #define PLATFORM_WINDOWS 1
@@ -38,9 +34,6 @@
 #endif
 #endif
 
-  /* ============================================================
-   * Memory Section Attributes (fallback if not in engine_config.h)
-   * ============================================================ */
 
 #ifndef SECTION_SDRAM
 #ifdef COMPILER_MSVC
@@ -56,10 +49,6 @@
 #endif
 #endif
 
-   /* ============================================================
-    * Struct Initialization Helpers (for C++ compatibility)
-    * MSVC C++ doesn't support C99 compound literals like (Vec3){1,2,3}
-    * ============================================================ */
 
 #ifdef __cplusplus
     /* C++ style initialization */
@@ -75,12 +64,7 @@
 #define VERTEX_INIT(pos, norm, uv)  (Vertex_t){pos, norm, uv}
 #endif
 
-/* ============================================================
- * Inline Functions for Struct Creation (safest approach)
- * These work in both C and C++, with any compiler
- * ============================================================ */
 
- /* Forward declare types if math3d.h not included yet */
 #ifndef MATH3D_H
 typedef struct { float x, y; } Vec2;
 typedef struct { float x, y, z; } Vec3;
@@ -99,9 +83,6 @@ static inline Vec4 MakeVec4(float x, float y, float z, float w) {
     Vec4 v; v.x = x; v.y = y; v.z = z; v.w = w; return v;
 }
 
-/* ============================================================
- * Memory Allocation (C++ safe)
- * ============================================================ */
 
 #ifdef __cplusplus
 #include <cstdlib>
